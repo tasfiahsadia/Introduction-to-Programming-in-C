@@ -1,0 +1,10 @@
+#include<stdio.h>
+
+int main(){
+    long long int a;
+    scanf("%lld", &a);
+    if(a%3 == 0)
+        printf("YES\n");
+    else 
+        printf("NO\n");
+}
