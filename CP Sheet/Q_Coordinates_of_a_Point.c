@@ -10,4 +10,10 @@ int main(){
         printf("Q3");
     else if(x > 0 && y < 0)
         printf("Q4");
+    else if(x==0 && y==0)
+        printf("Origem");
+    else if(x==0)
+        printf("Eixo Y");
+    else if(y==0)
+        printf("Eixo X");
 }
