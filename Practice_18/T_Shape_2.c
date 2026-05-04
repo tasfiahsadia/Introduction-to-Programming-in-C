@@ -10,7 +10,7 @@ int main(){
         for(int j=1; j<=i; j++)
             printf("*");
         
-        for(int j=2; j<=i; j++)
+        for(int j=2; j<=i; j++) //j=2 !< i=1 so 1st line skipped
             printf("*");
 
         printf("\n");
