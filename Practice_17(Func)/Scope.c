@@ -1,5 +1,7 @@
 #include<stdio.h>
+
 int x =10; //global variable
+
 int sum(){
     int a = 20; //only use sum() block 
     printf("Sum -> %d\n", a); 

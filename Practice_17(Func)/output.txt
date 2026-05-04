@@ -1,2 +1,8 @@
-Main -> 10
-Sum -> 20
+Ceil: 4
+Floor: 3
+Round (3.5): 4
+Round (3.4): 3
+Square Root of 16: 4
+Square Root of 20: 4.472136
+2 raised to the power 3: 8
+Absolute value of -5: 5
