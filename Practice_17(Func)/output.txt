@@ -1,2 +1,1 @@
 Sum = 40
-Subtraction = -60
