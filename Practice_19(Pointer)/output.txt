@@ -1,3 +1,1 @@
-Address of main() function: 0000002C117FFB7C
-Address of func() function: 0000002C117FFB50
-Value of x in main(): 10
+20
