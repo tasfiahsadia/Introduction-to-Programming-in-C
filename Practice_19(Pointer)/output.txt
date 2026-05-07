@@ -1,4 +1,1 @@
-Array er a[0] index er element: 00000052C5BFF870
-Array er nam: 00000052C5BFF870
-1
-100 2 3 4 5 
+hi 
