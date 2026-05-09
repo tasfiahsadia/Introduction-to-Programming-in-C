@@ -10,3 +10,12 @@ int main(){
     int i=1;
     hello(i);
 }
+
+
+//void hello(int i){
+//     hello(i); crashes the program because it will keep calling itself without any stopping condition, leading to a stack overflow.
+// }
+// int main(){
+//     int i=1;
+//     hello(i);
+// }
