@@ -9,3 +9,4 @@ void hello(int i){
 int main(){
     hello(1);
 }
+   
