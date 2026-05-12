@@ -8,8 +8,8 @@ int main(){
         for(int k=1;k<=n-i;k++) //for spaces
             printf(" ");
         
-            //for(int j=1;j<=star;j++) 
-            for(int j=1; j<=i; j++) //for stars
+        //for(int j=1;j<=star;j++) 
+        for(int j=1; j<=i; j++) //for stars
             printf("*");
     
         printf("\n");
