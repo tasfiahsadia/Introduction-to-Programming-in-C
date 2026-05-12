@@ -12,7 +12,7 @@ int main(){
         star += 2;
     }
 
-    star = 2*n-1;
+    star = 2*n - 1;
     for(int i=n; i>=1; i--){
         for(int k=n-i; k>=1; k--)
             printf(" ");
